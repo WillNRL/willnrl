@@ -1,4 +1,4 @@
-## Prazer, Natanael aqui. Falar um pouca da minha pessoa, sou entusiasta de Linux | Devops | Software embarcado e sempre procuro conhecimento de outras áreas dentro de TI!
+## Prazer, Natanael aqui. \nFalar um pouca da minha pessoa, sou entusiasta de Linux | Devops | Software embarcado e sempre procuro conhecimento de outras áreas dentro de TI!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
