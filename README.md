@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Natanael W. R. Leão</h1>
-<h3 align="center">Sou entusiasta de Linux | DevOps | Software Embarcado</h3>
+<h1 align="center">Hi 👋, Eu sou Natanael W. R. Leão</h1>
+<h3 align="center">Sou entusiasta em Linux | DevOps | Software Embarcado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willnrl&label=Profile%20views&color=0e75b6&style=flat" alt="willnrl" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/will_rl_" target="blank"><img src="https://img.shields.io/twitter/follow/will_rl_?logo=twitter&style=for-the-badge" alt="will_rl_" /></a> </p>
 
-- 🔭 I’m currently working on [DevOps-mao-na-massa](https://github.com/WillNRL/DevOps-mao-na-massa.git)
+- 🔭 Atualmente estou trabalhando em [DevOps-mao-na-massa](https://github.com/WillNRL/DevOps-mao-na-massa.git)
 
-- 🌱 I’m currently learning **rtl8192eu linux drivers e Como criar kernels**
+- 🌱 No momento estou aprendendo **rtl8192eu linux drivers e Como criar kernels**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WillNRL](https://github.com/WillNRL)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/WillNRL](https://github.com/WillNRL)
 
-- 💬 Ask me about **Linux, Python, C, Redes, Docker, Ansible, Git, Vagrant, C++ e Bash.**
+- 💬 Pergunte-me sobre **Linux, Python, C, Redes, Docker, Ansible, Git, Vagrant, C++ e Bash.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
