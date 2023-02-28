@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Eu sou Natanael W. R. Leão</h1>
+<h1 align="center">Hi 👋, eu sou Natanael W. R. Leão</h1>
 <h3 align="center">Sou entusiasta em Linux | DevOps | Software Embarcado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willnrl&label=Profile%20views&color=0e75b6&style=flat" alt="willnrl" /> </p>
