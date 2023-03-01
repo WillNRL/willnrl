@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente estou trabalhando em [DevOps-mao-na-massa](https://github.com/WillNRL/DevOps-mao-na-massa.git)
 
-- 🌱 No momento estou aprendendo **rtl8192eu linux drivers e Como criar kernels**
+- 🌱 No momento estou aprendendo **Como criar kernels**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/WillNRL](https://github.com/WillNRL)
 
